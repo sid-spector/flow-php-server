@@ -1,11 +1,11 @@
 {
-  "name": "flowjs/flow-php-server",
-  "description": "PHP library for handling chunk uploads. Works with flow.js html5 file uploads.",
+  "name": "sid-spector/flow-php-server",
+  "description": "PHP library for handling chunk uploads. Works with flow.js html5 file uploads and S3.",
   "license": "MIT",
   "authors": [
     {
-      "name": "Aidas Klimas",
-      "email": "aidaskk@gmail.com"
+      "name": "sigfried cattaneo",
+      "email": "sigfried.cattaneo@gmail.com"
     }
   ],
   "keywords": [
@@ -16,7 +16,8 @@
     "upload",
     "file upload",
     "html5 file upload",
-    "chunks"
+    "chunks",
+    "s3"
   ],
   "require": {
       "php": ">=5.3"
